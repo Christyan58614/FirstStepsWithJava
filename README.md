@@ -1,2 +1,2 @@
 # FirstStepsWithJava
-In this repository i am documenting my java script learning
+In this repository i am documenting my javascript learning
